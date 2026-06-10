@@ -1,3 +1,6 @@
+![Power BI](https://img.shields.io/badge/Power_BI-Analysis-yellow?logo=powerbi)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-Sheets-green?logo=microsoftexcel)
+
 # 📊 HR Analytics Dashboard
 
 ## 🔍 Project Overview
